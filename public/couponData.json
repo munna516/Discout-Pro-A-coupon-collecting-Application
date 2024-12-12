@@ -1,0 +1,341 @@
+[
+  {
+    "_id": "1",
+    "brand_name": "Alibaba",
+    "description": "Alibaba is a global marketplace that connects millions of buyers and suppliers, offering everything from electronics and fashion to industrial tools, all at competitive prices.",
+    "brand_logo": "https://i.ibb.co.com/BV48vGq/Alibaba-Logo-3.png",
+    "shop_Link": "https://www.alibaba.com",
+    "category": "E-commerce",
+    "rating": 4.7,
+    "isSaleOn": true,
+    "coupons": [
+      {
+        "coupon_code": "ALIBABA10",
+        "description": "10% off on bulk orders above $100",
+        "expiry_date": "2024-12-31",
+        "condition": "Applicable on selected categories only",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "FREESHIP",
+        "description": "Free shipping on orders over $50",
+        "expiry_date": "2024-11-30",
+        "condition": "Applies to select locations",
+        "coupon_type": "Shipping"
+      },
+      {
+        "coupon_code": "ELEC5",
+        "description": "5% off on all electronics",
+        "expiry_date": "2024-12-15",
+        "condition": "Minimum purchase $300",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "NEWYEAR15",
+        "description": "15% off on new arrivals",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid for registered users only",
+        "coupon_type": "Seasonal"
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "brand_name": "Foodpanda",
+    "description": "Foodpanda delivers delicious meals from local and international restaurants straight to your doorstep, offering convenience and exclusive deals.",
+    "brand_logo": "https://i.ibb.co.com/fHj7nRc/foodpanda-logo-RGB-stacked.png",
+    "shop_Link": "https://www.foodpanda.com",
+    "category": "Food",
+    "rating": 4.5,
+    "isSaleOn": false,
+    "coupons": [
+      {
+        "coupon_code": "FPDEL50",
+        "description": "50% off on your first order",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid for new users only",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "WEEKEND15",
+        "description": "15% off on weekend orders",
+        "expiry_date": "2024-12-25",
+        "condition": "Minimum order of $20",
+        "coupon_type": "Seasonal"
+      },
+      {
+        "coupon_code": "FREEMEAL",
+        "description": "Free meal on orders above $30",
+        "expiry_date": "2024-11-30",
+        "condition": "Applies to select restaurants",
+        "coupon_type": "Reward"
+      },
+      {
+        "coupon_code": "BREAKFAST10",
+        "description": "10% off on breakfast orders",
+        "expiry_date": "2024-12-15",
+        "condition": "Valid from 7AM to 11AM",
+        "coupon_type": "Discount"
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "brand_name": "KFC",
+    "description": "KFC offers world-famous fried chicken, delicious sides, and family meal buckets, making it a global favorite for comfort food enthusiasts.",
+    "brand_logo": "https://i.ibb.co.com/pzVhLWP/kfc.webp",
+    "shop_Link": "https://kfcbd.com/",
+    "category": "Food",
+    "rating": 4.5,
+    "isSaleOn": false,
+    "coupons": [
+      {
+        "coupon_code": "KFC20",
+        "description": "20% off on family buckets",
+        "expiry_date": "2024-12-25",
+        "condition": "Applicable for dine-in and delivery",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "MEALDEAL10",
+        "description": "10% off on combo meals",
+        "expiry_date": "2024-12-20",
+        "condition": "No minimum order required",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "KFCFREEDRINK",
+        "description": "Free drink with any burger meal",
+        "expiry_date": "2024-12-15",
+        "condition": "Valid for dine-in only",
+        "coupon_type": "Reward"
+      },
+      {
+        "coupon_code": "CHICKEN15",
+        "description": "15% off on orders above $25",
+        "expiry_date": "2024-12-10",
+        "condition": "Applicable for delivery only",
+        "coupon_type": "Discount"
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "brand_name": "Hush Puppies",
+    "description": "Hush Puppies offers stylish, comfortable footwear for men, women, and kids, combining innovative design with unmatched quality for all-day comfort.",
+    "brand_logo": "https://i.ibb.co.com/kcmxVQF/hush.jpg",
+    "shop_Link": "https://hushpuppies-apparel.com.sg/",
+    "category": "Shoes",
+    "rating": 4.4,
+    "isSaleOn": true,
+    "coupons": [
+      {
+        "coupon_code": "HUSH10",
+        "description": "10% off on all new arrivals",
+        "expiry_date": "2024-12-15",
+        "condition": "Minimum purchase of $50",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "COMFORT20",
+        "description": "20% off on casual footwear",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid on select items",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "FREESHIP",
+        "description": "Free shipping on all orders",
+        "expiry_date": "2024-12-31",
+        "condition": "Applies to online orders only",
+        "coupon_type": "Shipping"
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "brand_name": "FeetGear",
+    "description": "FeetGear provides high-quality sports footwear and accessories, designed to keep athletes and fitness enthusiasts comfortable and performance-ready.",
+    "brand_logo": "https://i.ibb.co.com/VpzWyBM/fg.png",
+    "shop_Link": "https://www.feetgear.com",
+    "category": "Shoes",
+    "rating": 4.3,
+    "isSaleOn": true,
+    "coupons": [
+      {
+        "coupon_code": "RUNFAST20",
+        "description": "20% off on running shoes",
+        "expiry_date": "2024-12-20",
+        "condition": "Valid on select items",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "FITGEAR15",
+        "description": "15% off on fitness gear",
+        "expiry_date": "2024-12-31",
+        "condition": "Minimum purchase of $75",
+        "coupon_type": "Discount"
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "brand_name": "Udemy",
+    "description": "Udemy is an online learning platform offering thousands of courses across technology, business, arts, and personal development, helping learners enhance their skills at affordable prices.",
+    "brand_logo": "https://i.ibb.co.com/3kK4wmZ/udemy-new-20212512.jpg",
+    "shop_Link": "https://www.udemy.com",
+    "category": "Education",
+    "rating": 4.7,
+    "isSaleOn": true,
+    "coupons": [
+      {
+        "coupon_code": "UDEMY50",
+        "description": "50% off on all courses",
+        "expiry_date": "2024-12-31",
+        "condition": "Applicable to new users only",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "LEARN20",
+        "description": "20% off on top-rated courses",
+        "expiry_date": "2024-12-25",
+        "condition": "Minimum purchase of $10",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "BUNDLE30",
+        "description": "30% off on course bundles",
+        "expiry_date": "2024-12-15",
+        "condition": "Available on select categories",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "FREELIVE",
+        "description": "Free live course sessions",
+        "expiry_date": "2024-11-30",
+        "condition": "Limited slots available",
+        "coupon_type": "Reward"
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "brand_name": "Adidas",
+    "description": "Adidas is a world-renowned sportswear brand offering premium quality footwear, apparel, and accessories designed for athletes and fitness enthusiasts.",
+    "brand_logo": "https://i.ibb.co.com/0j4q63J/adidas.webp",
+    "shop_Link": "https://www.adidas.com/us/men",
+    "category": "Sportswear",
+    "rating": 4.7,
+    "isSaleOn": true,
+    "coupons": [
+      {
+        "coupon_code": "ADIDAS15",
+        "description": "15% off on all products",
+        "expiry_date": "2024-12-20",
+        "condition": "Minimum purchase of $100",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "SHOE25",
+        "description": "25% off on running shoes",
+        "expiry_date": "2024-12-10",
+        "condition": "Valid for online purchases only",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "FREESHIP",
+        "description": "Free shipping on all orders",
+        "expiry_date": "2024-11-30",
+        "condition": "No minimum purchase required",
+        "coupon_type": "Shipping"
+      },
+      {
+        "coupon_code": "GYMGEAR10",
+        "description": "10% off on gym gear",
+        "expiry_date": "2024-12-31",
+        "condition": "Applicable on select items",
+        "coupon_type": "Discount"
+      }
+    ]
+  },
+  {
+    "_id": "8",
+    "brand_name": "Apple",
+    "description": "Apple offers cutting-edge technology products, including iPhones, MacBooks, iPads, and accessories, combining innovation with premium design and performance.",
+    "brand_logo": "https://i.ibb.co.com/1sf9y0R/apple-logo-black-svg.png",
+    "shop_Link": "https://www.apple.com",
+    "category": "Technology",
+    "rating": 5,
+    "isSaleOn": true,
+    "coupons": [
+      {
+        "coupon_code": "APPLE10",
+        "description": "10% off on accessories",
+        "expiry_date": "2024-12-25",
+        "condition": "Valid for online orders only",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "MACBOOK15",
+        "description": "15% off on MacBook Air and Pro",
+        "expiry_date": "2024-12-31",
+        "condition": "Limited to select models",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "IPHONE5",
+        "description": "5% off on all iPhone models",
+        "expiry_date": "2024-12-20",
+        "condition": "Minimum purchase of $500",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "FREESHIP",
+        "description": "Free shipping on all devices",
+        "expiry_date": "2024-11-30",
+        "condition": "No minimum purchase required",
+        "coupon_type": "Shipping"
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "brand_name": "Zara",
+    "description": "Zara is a leading fashion retailer offering trendy and high-quality clothing, shoes, and accessories for men, women, and kids at affordable prices.",
+    "brand_logo": "https://i.ibb.co.com/sP46c7Z/zara.png",
+    "shop_Link": "https://www.zara.com",
+    "category": "Fashion",
+    "rating": 4,
+    "isSaleOn": true,
+    "coupons": [
+      {
+        "coupon_code": "ZARA20",
+        "description": "20% off on winter collection",
+        "expiry_date": "2024-12-25",
+        "condition": "Valid on select items only",
+        "coupon_type": "Seasonal"
+      },
+      {
+        "coupon_code": "NEWLOOK10",
+        "description": "10% off on all new arrivals",
+        "expiry_date": "2024-12-31",
+        "condition": "No minimum purchase required",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "FREESHIP",
+        "description": "Free shipping on orders above $50",
+        "expiry_date": "2024-11-30",
+        "condition": "Applies to online purchases only",
+        "coupon_type": "Shipping"
+      },
+      {
+        "coupon_code": "SALE25",
+        "description": "25% off on clearance sale items",
+        "expiry_date": "2024-12-15",
+        "condition": "While stocks last",
+        "coupon_type": "Clearance"
+      }
+    ]
+  }
+]
